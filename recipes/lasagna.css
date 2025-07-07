@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(11, 11, 36);
+    color: rgb(239, 240, 223);
+    font-family: 'Lucida Handwriting', Georgia;
+}
+
+img {
+    border: 5px dashed rgb(252, 184, 58);
+    padding: 10px;
+}
+
+.header1 {
+    background-color: rgb(211, 147, 28);
+}
+
+.header2 {
+    background-color: rgba(201, 139, 47, 0.548);
+}
+
+.header3 {
+    background-color: rgba(212, 153, 43, 0.212);
+}
+
+a {
+    color: greenyellow;
+}
